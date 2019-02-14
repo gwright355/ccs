@@ -1,0 +1,20 @@
+<html>
+<Title> HTML Assignment</Title>
+<style>
+body {background-color: wheat;}
+h1   {color: blue;}
+</style>
+
+<h1> Customer Information </h1>
+
+<form action="/action_page.php" method="get">
+  First name: <input type="text" name="fname"><br>
+  <br/>
+  Last name: <input type="text" name="lname"><br>
+  <br/>
+     E-mail: <input type="text" name="lname"><br>
+  <br/>
+  <input type="submit" value="Submit">
+</form>
+
+</html>
